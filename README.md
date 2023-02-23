@@ -6,14 +6,19 @@
 <h3> "Vote anywhere, at any time" </h3> <br>
 An Election electronic-voting (e-voting) mobile application built with Flutter.
 
-## Description
+# Table of Contents
+
+1. [Description](#Description)
+2. [Packages Used](#PackagesUsed)
+
+## Description   <a name="Description"></a>
 
 Manual, or paper-based, voting systems have long been in practice in the Nepal election process, which has raised questions over the integrity of the election as the voters are counted manually, which increases the room for errors and lengthens the process. Elections are also extortionately expensive for a country with a poor economy like Nepal. To overcome all the mistakes and setbacks of the current election process, “elector” was developed to implement advanced technologies in elections. “Elector” is a mobile application that uses three steps of voting verification process as well as end to end data encryption. The primary goals of “elector” are to preserve election integrity, provide accessibility to both domestic and overseas citizens, produce accurate voting results, reduce the election cost, eliminate the use of paper ballots, thwart any illegal acts, and to raise the voter turnout. This project was developed using the Flutter framework, which is a software development kit used for developing multi-platform applications from a single codebase. The frontend was built with the Dart programming language, and the Firebase database was used as the backend. The project was developed and completed using the RAD model. Because this is the first version of the app, there are numerous opportunities for improvements and new features.
 
 <code>flutter_riverpod</code> and <code>GetX</code> was used for the state management. GetX was also used for navigation and getting dialog box. 
 
 
-## Packages Used
+## Packages Used  <a name="PackagesUsed"></a>
 
 * flutter_riverpod: ^1.0.4
 * get: ^4.6.5
