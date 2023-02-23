@@ -20,7 +20,7 @@ Manual, or paper-based, voting systems have long been in practice in the Nepal e
   
 ### Admin Panel 
   
-This app has an admin panel which was also made from Flutter Framework (Flutter Web). You can find it <a href="https://github.com/anishghale007/elector">here</a>
+This app has an admin panel which was also made from Flutter Framework (Flutter Web). You can find it <a href="https://github.com/anishghale007/elector-admin-panel">here</a>
 
 ## Packages Used  <a name="PackagesUsed"></a>
 
