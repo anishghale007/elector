@@ -111,9 +111,8 @@ flutter pub get
   <img src="https://user-images.githubusercontent.com/72159017/221237629-e2c3f78b-a6ff-4ba9-baf2-15ba2deb28f8.jpg" width="300" height="600" /> 
   <img src="https://user-images.githubusercontent.com/72159017/221237653-c48826d8-4a19-4135-b46b-cac7fc3cf336.jpg" width="300" height="600" />
 </p>
-                                   
-                                                                                                       </div>
-                                                                                                                                           <br>
+</div>
+<br>
 
 ### Voter ID Error Message
 <div id="ErrorMessage">
