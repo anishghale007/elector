@@ -90,8 +90,7 @@ This app has an admin panel which was also made from Flutter Framework (Flutter 
 flutter pub get
 </code>
   </div>
-  
- ![Frame 8](https://user-images.githubusercontent.com/72159017/221272320-7c3c0a41-52e1-48ba-aad7-cf7ea774dee4.png)
+ 
 
 ## Screenshots  <a name="Screenshots"></a>
   
